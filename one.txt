@@ -1,4 +1,7 @@
 This is add file for branching strategy.
 
-Want to perform git pull remote
+Want to perform git pull remote -- it support specific branch 
+
+Want to perform git fetch remote branch
+
 
